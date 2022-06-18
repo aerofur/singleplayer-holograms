@@ -40,7 +40,7 @@ if SERVER then
     MsgC(Color(172,244,108),"SpHolos | ", Color(255,255,255),"Setup expression2 holograms for local use.\n")
 
     --Ensure user has all required files before loading into server.
-    resource.AddWorkshop("")
+    resource.AddWorkshop("2822498118")
 end
 
 if CLIENT then
