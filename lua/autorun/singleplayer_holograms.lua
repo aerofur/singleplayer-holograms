@@ -11,7 +11,7 @@ if SERVER then
         "holoanim",
         "http",
         "light",
-        "playercore"
+        "playercore",
         "prop2mesh",
         "propcore",
         "ranger",
